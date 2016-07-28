@@ -1,0 +1,48 @@
+h1 {
+  color: white;
+  background-color: rgba(3,3,3,.5);
+  border: 1px solid black;
+  font-size: 50px;
+  width: 600px;
+  margin: 0 auto;
+}
+.chart {
+  padding-left: 15px;
+  padding-top: 10px;
+  width: 400px;
+  min-height: 20px;
+  background-color: rgba(3,3,3,.5);
+  margin: 0 auto;
+  border: 1px solid black;
+  color: #E8E8E8;
+  font-size: 18px;
+  text-align: left;
+}
+
+
+li:nth-child(odd) {
+  background-color: rgba(102, 102, 153, .75);
+}
+body {
+  text-align: center;
+  background-image: url("../img/todo.jpg");
+  font-family: verdana, Geneva, sans-serif;
+}
+p {
+  color: #F0F0F0;
+  text-shadow: 4px 4px 4px 4px  #111111;
+  font-size: 14px;
+  text-align: center;
+}
+#input {
+  height: 20px;
+  width: 275px;
+  font-size: 15px;
+  font-family: verdana, Geneva, sans-serif;
+}
+#button {
+  height: 26px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #ff6699;
+}
